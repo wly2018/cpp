@@ -9,7 +9,11 @@ int main()
 	string s1,s2,s3;
 	int tag,ra,i,j,len,maxi;
 	bool flag;
+
 	long l1,l2;
+
+	long sum1,sum2;
+
 	
 	s1="121";
 	s2="34";
